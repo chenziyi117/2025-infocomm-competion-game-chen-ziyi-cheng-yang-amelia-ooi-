@@ -1,5 +1,6 @@
 {
     "name": "2025 infocomm competion game      Chen ziyi Cheng yang Amelia ooi ",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
